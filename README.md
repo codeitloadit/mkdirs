@@ -1,2 +1,2 @@
 # mkdirs
-Command line tool written in GO that allows you to mkdir recursively.
+Command line tool written in Go that allows you to mkdir recursively.
